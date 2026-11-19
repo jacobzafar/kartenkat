@@ -4,7 +4,7 @@ En liten webbkarta över centrala Göteborg byggd med OpenLayers. Den visar Göt
 
 Demo byggd i november 2026.
 
-Länk: läggs till efter publicering på Netlify.
+Länk: https://kartenkat.netlify.app
 
 ![Skärmbild av kartan med ett valt DeSO-område](docs/skarmbild.jpg)
 
