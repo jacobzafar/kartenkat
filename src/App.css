@@ -38,3 +38,34 @@
     border-top: 1px solid #ddd;
   }
 }
+
+.info {
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 1px solid #ddd;
+}
+
+.info h2 {
+  margin: 0 0 8px;
+  font-size: 15px;
+}
+
+.info dl {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 4px 12px;
+  margin: 0;
+}
+
+.info dt {
+  color: #666;
+}
+
+.info dd {
+  margin: 0;
+}
+
+.info p {
+  margin: 0;
+  color: #666;
+}
